@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/03 10:57:34.000.241,=C:\Users\tsuna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 10:58:22.000.951,=C:\Users\tsuna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 10:58:31.000.859,C:\Users\tsuna\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\tsuna\Documents\projetobruno\src\uFrmPrincipal.pas</Transaction>
+    <Transaction>2021/07/03 10:58:31.000.859,C:\Users\tsuna\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\tsuna\Documents\projetobruno\src\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2021/07/03 10:59:18.000.973,C:\Users\tsuna\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\tsuna\Documents\projetobruno\src\receituario.dproj</Transaction>
+    <Transaction>2021/07/03 11:28:00.000.394,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 11:28:13.000.694,C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas=C:\Users\tsuna\Documents\projetobruno\src\Cliente.pas</Transaction>
+    <Transaction>2021/07/03 11:29:05.000.284,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 11:29:11.000.489,C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas=C:\Users\tsuna\Documents\projetobruno\src\uClienteService.pas</Transaction>
+    <Transaction>2021/07/03 11:29:17.000.859,C:\Users\tsuna\Documents\projetobruno\src\uClienteService.pas=C:\Users\tsuna\Documents\projetobruno\src\ClienteService.pas</Transaction>
+    <Transaction>2021/07/03 11:31:12.000.371,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 11:31:22.000.469,C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas=C:\Users\tsuna\Documents\projetobruno\src\Erro.pas</Transaction>
+    <Transaction>2021/07/03 11:34:25.000.229,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 11:34:29.000.439,C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas=C:\Users\tsuna\Documents\projetobruno\src\ClienteDao.pas</Transaction>
+    <Transaction>2021/07/07 10:05:53.275,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 10:07:24.912,C:\Users\tsuna\Documents\projetobruno\src\dmDados.dfm=C:\Users\tsuna\Documents\projetobruno\src\Unit1.dfm</Transaction>
+    <Transaction>2021/07/07 10:07:24.912,C:\Users\tsuna\Documents\projetobruno\src\dmDados.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 11:04:11.874,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 11:04:19.939,C:\Users\tsuna\Documents\projetobruno\src\Tecnico.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 11:05:19.672,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 11:05:23.859,C:\Users\tsuna\Documents\projetobruno\src\TecnicoDao.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 11:42:47.846,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 11:42:51.768,C:\Users\tsuna\Documents\projetobruno\src\Produto.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 11:46:04.213,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 11:46:08.942,C:\Users\tsuna\Documents\projetobruno\src\ProdutoDao.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 15:07:22.871,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 15:07:27.547,C:\Users\tsuna\Documents\projetobruno\src\Pedido.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 16:03:16.345,=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 16:03:22.128,C:\Users\tsuna\Documents\projetobruno\src\PedidoDao.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 17:50:02.972,=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/08 17:50:09.746,C:\Users\tsuna\Documents\projetobruno\src\frmCliente.dfm=C:\Users\tsuna\Documents\projetobruno\src\Unit2.dfm</Transaction>
+    <Transaction>2021/07/08 17:50:09.746,C:\Users\tsuna\Documents\projetobruno\src\frmCliente.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 10:16:54.087,=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 10:16:59.157,C:\Users\tsuna\Documents\projetobruno\src\frmProduto.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 10:16:59.157,C:\Users\tsuna\Documents\projetobruno\src\frmProduto.dfm=C:\Users\tsuna\Documents\projetobruno\src\Unit2.dfm</Transaction>
+    <Transaction>2021/07/09 10:47:54.272,=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 10:48:05.554,C:\Users\tsuna\Documents\projetobruno\src\frmPedido.dfm=C:\Users\tsuna\Documents\projetobruno\src\Unit2.dfm</Transaction>
+    <Transaction>2021/07/09 10:48:05.554,C:\Users\tsuna\Documents\projetobruno\src\frmPedido.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 11:00:03.421,=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 11:00:07.959,C:\Users\tsuna\Documents\projetobruno\src\frmBuscaCLiente.dfm=C:\Users\tsuna\Documents\projetobruno\src\Unit2.dfm</Transaction>
+    <Transaction>2021/07/09 11:00:07.959,C:\Users\tsuna\Documents\projetobruno\src\frmBuscaCLiente.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 11:05:43.392,=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 11:05:49.613,C:\Users\tsuna\Documents\projetobruno\src\frmBuscaProduto.dfm=C:\Users\tsuna\Documents\projetobruno\src\Unit2.dfm</Transaction>
+    <Transaction>2021/07/09 11:05:49.613,C:\Users\tsuna\Documents\projetobruno\src\frmBuscaProduto.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 11:30:28.383,=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 11:30:34.366,C:\Users\tsuna\Documents\projetobruno\src\frmBuscaTecnico.dfm=C:\Users\tsuna\Documents\projetobruno\src\Unit2.dfm</Transaction>
+    <Transaction>2021/07/09 11:30:34.366,C:\Users\tsuna\Documents\projetobruno\src\frmBuscaTecnico.pas=C:\Users\tsuna\Documents\projetobruno\src\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
